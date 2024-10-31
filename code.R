@@ -51,7 +51,7 @@ rr_cv_rpart
 
 mlr_measures
 
-my_measures = c(mlr3::msr("regr.rmse"), mlr3::msr("regr.rsq"))
+my_measures = c(mlr3::msr("regr.rmse"), mlr3::msr("rsq"))
 
 score_cv_rpart = rr_cv_rpart$score(measures = my_measures)
 head(score_cv_rpart)
@@ -59,7 +59,7 @@ head(score_cv_rpart)
 hist(score_cv_rpart$regr.rmse)
 
 mean(score_cv_rpart$regr.rmse)
-mean(score_cv_rpart$regr.rsq)
+mean(score_cv_rpart$rsq)
 
 learner_rpart$train(task)
 
@@ -81,7 +81,7 @@ hist(score_spcv_rpart$regr.rmse)
 # non-spatial RMSE: 1.14
 mean(score_spcv_rpart$regr.rmse) 
 # non-spatial R2: 0.82
-mean(score_spcv_rpart$regr.rsq)
+mean(score_spcv_rpart$rsq)
 
 importance = learner_rpart$importance()
 importance
