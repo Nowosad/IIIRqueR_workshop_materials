@@ -20,15 +20,13 @@ pkg_list = c("sf", "terra", "rpart", "mlr3", "mlr3learners", "mlr3spatiotempcv",
 remotes::install_cran(pkg_list)
 ```
 
-<!--
 ## Materials
 
 Slides: [jakubnowosad.com](https://jakubnowosad.com/IIIRqueR_workshop/)
 
-This repository contains the materials for the talk "Machine learning approaches for working with spatial data" given at the III Congreso & XIV Jornadas de Usuarios de R, Sevilla, Spain on 2024-11-06.
+This repository contains the materials for the talk "Machine learning approaches for working with spatial data" given at the III Congreso & XIV Jornadas de Usuarios de R, Sevilla, Spain on 2024-11-08.
 
 The best way to get them is to download the repository as a ZIP file from https://github.com/Nowosad/IIIRqueR_workshop_materials/archive/refs/heads/main.zip and unpack it on your computer. 
 Then, you may open the .Rproj file and start working on the exercises in RStudio.
--->
 
 
