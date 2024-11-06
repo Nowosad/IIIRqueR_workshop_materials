@@ -51,7 +51,7 @@ rr_cv_rpart
 
 mlr_measures
 
-my_measures = c(mlr3::msr("regr.rmse"), mlr3::msr("rsq"))
+my_measures = c(mlr3::msr("regr.rmse"), mlr3::msr("regr.rsq"))
 
 score_cv_rpart = rr_cv_rpart$score(measures = my_measures)
 head(score_cv_rpart)
