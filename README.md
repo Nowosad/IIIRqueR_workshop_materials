@@ -31,4 +31,11 @@ This repository contains the materials for the talk "Machine learning approaches
 The best way to get them is to download the repository as a ZIP file from https://github.com/Nowosad/IIIRqueR_workshop_materials/archive/refs/heads/main.zip and unpack it on your computer. 
 Then, you may open the .Rproj file and start working on the exercises in RStudio.
 
+## License
 
+This repository is released under the Creative Commons Attribution 4.0 International license.
+## Citation
+
+If you reuse these workshop materials, please cite the archived repository version.
+
+> Nowosad, J. (2024). *Machine learning approaches for working with spatial data* (Workshop materials]. Zenodo. https://doi.org/10.5281/zenodo.21534560
