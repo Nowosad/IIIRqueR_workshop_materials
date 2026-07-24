@@ -38,4 +38,4 @@ This repository is released under the Creative Commons Attribution 4.0 Internati
 
 If you reuse these workshop materials, please cite the archived repository version.
 
-> Nowosad, J. (2024). *Machine learning approaches for working with spatial data* (Workshop materials]. Zenodo. https://doi.org/10.5281/zenodo.21534560
+> Nowosad, J. (2024). *Machine learning approaches for working with spatial data* (Workshop materials). Zenodo. https://doi.org/10.5281/zenodo.21534560
