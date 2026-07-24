@@ -1,5 +1,7 @@
 # Machine learning approaches for working with spatial data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21534560.svg)](https://doi.org/10.5281/zenodo.21534560)
+
 ## Abstract
 
 The 'Machine Learning Approaches for Working with Spatial Data' workshop highlights the similarities and differences between machine learning using spatial data and non-spatial data. The workshop guides participants through various stages of machine learning workflows, from data preparation to model evaluation and prediction.
