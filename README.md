@@ -34,6 +34,7 @@ Then, you may open the .Rproj file and start working on the exercises in RStudio
 ## License
 
 This repository is released under the Creative Commons Attribution 4.0 International license.
+
 ## Citation
 
 If you reuse these workshop materials, please cite the archived repository version.
